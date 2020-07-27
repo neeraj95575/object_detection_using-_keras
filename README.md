@@ -5,7 +5,7 @@ https://www.kaggle.com/prasunroy/natural-images
 
 Libraries for this project
 
-Libraries          |       Version
+Libraries          |       Versions
 ____________________________________
 
 tensorflow         |      1.14.0
